@@ -34,10 +34,11 @@ I'm also getting into:
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&labelColor=000000&logo=express&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
 
-And in general:
+<!-- And in general:
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&labelColor=F05032&logo=git&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&labelColor=FCC624&logo=linux&logoColor=000000)
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-ff75f7?style=flat-square&labelColor=ff75f7&logo=adobexd&logoColor=000000)
 ![GIMP](https://img.shields.io/badge/-GIMP-5C5543?style=flat-square&labelColor=5C5543&logo=gimp&logoColor=ffffff)
 ![Inkscape](https://img.shields.io/badge/-Inkscape-000000?style=flat-square&labelColor=000000&logo=inkscape&logoColor=ffffff)
+ -->
