@@ -24,15 +24,13 @@ In the back-end:
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&labelColor=777BB4&logo=php&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&labelColor=FF2D20&logo=laravel&logoColor=ffffff)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&labelColor=21759B&logo=wordpress&logoColor=ffffff)
-![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&labelColor=003545&logo=mariadb&logoColor=ffffff)
-
-I'm also getting into:
-
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&labelColor=3178C6&logo=typescript&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/-Node-339933?style=flat&labelColor=339933&logo=nodedotjs&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&labelColor=000000&logo=express&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
+<!-- ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&labelColor=21759B&logo=wordpress&logoColor=ffffff) -->
+<!-- ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&labelColor=003545&logo=mariadb&logoColor=ffffff) -->
 
 <!-- And in general:
 
