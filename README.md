@@ -9,6 +9,7 @@ My name is Isaac and I am a full-stack web developer from São Fidélis, Rio de 
     <img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" alt="Hello, there!">
 </a>
 
+
 ### Here's some of the stuff I like to use
 
 
@@ -43,5 +44,5 @@ In the back-end:
 
 <hr>
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacpontes&theme=onedark&layout=compact&langs_count=8)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacpontes&theme=onedark&layout=compact&langs_count=8&card_width=450)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaacpontes&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&line_height=24)
