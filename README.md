@@ -44,5 +44,5 @@ In the back-end:
 
 <hr>
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacpontes&theme=onedark&layout=compact&langs_count=8&card_width=450)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isaacpontes&theme=onedark&layout=compact&langs_count=8&card_width=440)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=isaacpontes&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&line_height=24)
