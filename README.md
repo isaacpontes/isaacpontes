@@ -17,18 +17,17 @@ In the front-end
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
-<!-- ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&labelColor=CC6699&logo=sass&logoColor=ffffff) -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&labelColor=F7DF1E&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&labelColor=3178C6&logo=typescript&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
 ![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
-
+<!-- ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&labelColor=CC6699&logo=sass&logoColor=ffffff) -->
 In the back-end:
 
 ![Node](https://img.shields.io/badge/-Node-339933?style=flat&labelColor=339933&logo=nodedotjs&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&labelColor=000000&logo=express&logoColor=ffffff)
-<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff) -->
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
+<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff) -->
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&labelColor=777BB4&logo=php&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&labelColor=FF2D20&logo=laravel&logoColor=ffffff)
